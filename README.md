@@ -64,7 +64,7 @@ Temperature.
 Humidity.
 Weather icon.
 📸 Screenshots
-
+https://github.com/Vishal42001/Weather_app/blob/main/weather_ss.png
 
 🏠 Home Page
 
